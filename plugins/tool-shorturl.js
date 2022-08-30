@@ -52,7 +52,7 @@ if (args[1] == "bitly") {
 
 //OuO
 if (args[1] == "ouo") {
-	let ouo = await (await fetch(`https://api.lolhuman.xyz/api/ouoshortlink?apikey=SGWN&url=${args[0]}`)).json()
+	let ouo = await (await fetch(`https://api.lolhuman.xyz/api/ouoshortlink?apikey=ffc7159b6004dbfad13a3175&url=${args[0]}`)).json()
 	m.reply(pros).then(_=> conn.reply(m.chat, `${tesk}${ouo.result}`,m))
 	}
 }
