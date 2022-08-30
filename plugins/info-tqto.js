@@ -41,6 +41,8 @@ https://github.com/Ameliascrf
 https://github.com/Fokusdotid
 *❉ Johannes:*
 https://github.com/Johannes2803
+*❉ ZansLord:*
+https://github.com/ZansLord
 *❉ BrunoSobrino:*
 https://github.com/BrunoSobrino
 *❉ Krisna:*
@@ -51,24 +53,28 @@ https://github.com/LitRHap
 https://github.com/Rlxfly
 *❉ Aine:*
 https://github.com/Aiinne
+*❉ ImYanXiao:*
+https://github.com/ImYanXiao
 *❉ Papah-Chan:*
 https://github.com/FahriAdison
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
-*❉ ImYanXiao:*
-https://github.com/ImYanXiao
+*❉ ZansLord:*
+https://github.com/ZansLord
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
 *❉ Kannachan:*
 *❉ The.sadboy01
 *❉ Papah-Chan:*
 *❉ Johannes:*
 *❉ Krisna:*
+*❉ ImYanXiao:*
+*❉ Dittaz:*
 *❉ Rlxfly:*
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/Xiao_yan_21",
+    mediaUrl: "https://Instagram.com/black_team_indonesia",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/Xiao_yan_21", 
+    description: "https://Instagram.com/black_team_indonesia", 
     title: 'Kanna-MultiDevice',
     body: wm,
     thumbnail: thumb,
