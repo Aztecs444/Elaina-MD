@@ -20,21 +20,21 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/cce9ab4551f7150f1970d.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Yan Xiao
-${htjava} *✉️ Nama RL* : Rahasia🗿
+${htjava} *💌 Nama* : ZansLord
+${htjava} *✉️ Nama RL* : Abdul Malik R.N
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 15 Oktober 2004
-${htjava} *🎨 Umur* : 17
-${htjava} *🧮 Kelas* : 12
+${htjava} *⏰ Tanggal lahir* : 15 Oktober 2007
+${htjava} *🎨 Umur* : 15
+${htjava} *🧮 Kelas* : 9
 ${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
 ${htjava} *💬 Sifat* : Idiot, Tidak Ramah, Bilek, Prik, Nolep
-${htjava} *🗺️ Tinggal* : Indo, Tulungagung, Jawa Timur
-${htjava} *❤️ Suka* : kucing
+${htjava} *🗺️ Tinggal* : Indo, Jawa Barat, Kab.bandung
+${htjava} *❤️ Suka* : Cintod🐦
 ${htjava} *💔 Benci* : autis, seleb
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
-${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Fay Cat's Kun
+${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Abdul Malik Rizky
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
