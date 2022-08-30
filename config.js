@@ -91,13 +91,13 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'Apikeymu',
+  'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'Apikeymu',
+  'https://api.lolhuman.xyz': 'ffc7159b6004dbfad13a3175',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://melcanz.com': 'apikeymu',
+  'https://melcanz.com': 'elaina',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'Apikeymu',
+  'https://botstyle-api.herokuapp.com': 'VBpOnGkc',
   'https://hardianto.xyz': 'hardianto',
   'https://violetics.pw': 'beta'
 }
