@@ -12,9 +12,9 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
 
 
 conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply: { showAdAttribution: true,
-      mediaUrl: "https://Instagram.com/Xiao_yan_21",
+      mediaUrl: "https://Instagram.com/black_team_indonesia",
       mediaType: 2,
-      description: "https://Instagram.com/Xiao_yan_21", 
+      description: "https://Instagram.com/black_team_indonesia", 
       title: global.titlebot,
       body: wm,
       thumbnail: thumb,
