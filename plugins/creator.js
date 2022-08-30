@@ -24,7 +24,7 @@ ${htjava} *💌 Nama* : ZansLord
 ${htjava} *✉️ Nama RL* : Abdul Malik R.N
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 15 Oktober 2007
+${htjava} *⏰ Tanggal lahir* : 04 July 2007
 ${htjava} *🎨 Umur* : 15
 ${htjava} *🧮 Kelas* : 9
 ${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
