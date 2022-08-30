@@ -1,6 +1,6 @@
 import fetch from 'node-fetch'
 let handler = async(m, { conn, text }) => {
-  let res = await (await fetch('https://api.lolhuman.xyz/api/random/bucin?apikey=Apikeymu'))
+  let res = await (await fetch('https://api.lolhuman.xyz/api/random/bucin?apikey=ffc7159b6004dbfad13a3175'))
   if (!res.ok) throw await res.text()
   let json = await res.json()
   if(!json.result[0]) throw json
